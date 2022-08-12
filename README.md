@@ -7,8 +7,9 @@
 const patrik = {
     pronouns: "He" | "Him",
     code: ["Typescript", "Python"],
-    askMeAbout: ["web dev", "machine learning", "gravel cycling", "running"],
+    askMeAbout: ["web development", "machine learning", "gravel cycling", "running"],
     technologies: {
+        frontEnd: ["ReactJS", "Typescript"]
         backEnd: {
             js: ["Node", "NextJS", "Express"],
             python: ["Flask", "fastapi"],
@@ -17,8 +18,7 @@ const patrik = {
         databases: ["mongo", "Maria db", "sqlite", "redis"],
         machineLearning: ["Keras", "XGBoost", "scikit-learn", "opencv"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building Robots to ease opertations",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Microservice", "Single page applications"],
+    currentFocus: "Web development + system architecture",
 };
 ```
