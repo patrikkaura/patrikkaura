@@ -1,7 +1,7 @@
 ### Hi there 👋 I'am Patrik Kaura
 
 - Currently UI developer at [Seznam a.s.](https://kariera.seznam.cz/)
-- Student of PhD program at (Brno University of Technology)(https://www.vut.cz/)
+- Student of PhD program at [Brno University of Technology](https://www.vut.cz/)
 
 ```javascript
 const patrik = {
