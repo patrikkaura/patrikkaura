@@ -1,7 +1,21 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F754&center=true&width=435&lines=%3E+Hello+there%2C+I'am+Patrik!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F754&center=true&width=435&lines=%3E+Hello+there%2C+I'am+Patrik!" alt="Typing SVG" /></a>
+    <hr />
+    Full-stack developer from Czech Republic
 </div>
 
+<br />
+
+
+
+<br />
+<img align="right" alt='whale' style="width: 250px;" src="https://media0.giphy.com/media/1QfiAtGHd1CS4HzaiU/giphy.gif?cid=ecf05e47inp2lsc1514u46xig44kmg3kksz1tceuv19c3txh&rid=giphy.gif&ct=g" />
+
+
+<p align="left">
+I'm a full-stack developer and Ph.D. student of bioinformatics, building digital products/machine learning models. I currently code for <a href="https://kariera.seznam.cz/">Seznam a.s.</a> and study at <a href="https://www.vut.cz/">Brno University of Technology</a>. When I'm not coding you can find me gravel riding, or running around the city.
+</p>
+<br />
 <br />
 
 <div align="center">
@@ -16,17 +30,7 @@
     </a>
 </div>
 
-<br />
-<img align="right" alt='whale' style="width: 250px;" src="https://media0.giphy.com/media/1QfiAtGHd1CS4HzaiU/giphy.gif?cid=ecf05e47inp2lsc1514u46xig44kmg3kksz1tceuv19c3txh&rid=giphy.gif&ct=g" />
 
-
-<p align="left">
-I'm a full-stack developer and Ph.D. student of bioinformatics, building digital products/machine learning models. I currently code for <a href="https://kariera.seznam.cz/">Seznam a.s.</a> and study at <a href="https://www.vut.cz/">Brno University of Technology</a>. When I'm not coding you can find me gravel riding, or running around the city.
-</p>
-
-
-<br />
-<br />
 <br />
 
 #### About me
