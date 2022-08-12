@@ -17,17 +17,19 @@
 </div>
 
 <br />
+<img align="right" alt='whale' style="width: 250px;" src="https://media0.giphy.com/media/1QfiAtGHd1CS4HzaiU/giphy.gif?cid=ecf05e47inp2lsc1514u46xig44kmg3kksz1tceuv19c3txh&rid=giphy.gif&ct=g" />
 
-<div align="center">
 
-I'm a full-stack developer and Ph.D. student of bioinformatics, building digital products/machine learning models. I currently code for [Seznam a.s.](https://kariera.seznam.cz/) and study at [Brno University of Technology](https://www.vut.cz/).
+<p align="left">
+I'm a full-stack developer and Ph.D. student of bioinformatics, building digital products/machine learning models. I currently code for <a href="https://kariera.seznam.cz/">Seznam a.s.</a> and study at <a href="https://www.vut.cz/">Brno University of Technology</a>. When I'm not coding you can find me gravel riding, or running around the city.
+</p>
 
-When I'm not coding you can find me gravel riding, or running around the city.
 
-</div>
+<br />
+<br />
+<br />
 
 #### About me
-
 ```typescript
 
 type FullStack = Frontend & Backend
@@ -51,6 +53,7 @@ const patrik: FullStack = {
     currentFocus: ["Web development", "system architecture"],
 };
 ```
+
 
 ### 🔥 Github - streak stats 🔥
 
