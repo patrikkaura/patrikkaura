@@ -33,7 +33,7 @@ I'm a full-stack developer and Ph.D. student of bioinformatics, building digital
 
 <br />
 
-#### About me
+### About me
 ```typescript
 
 type FullStack = Frontend & Backend
