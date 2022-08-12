@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1EF739&center=true&vCenter=true&width=435&lines=Hello+there%2C+I'm+Patrik!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F754&center=true&width=435&lines=%3E+Hello+there%2C+I'am+Patrik!" alt="Typing SVG" /></a>
 </div>
 
 <br />
@@ -18,31 +18,21 @@
 
 <br />
 
-- Currently UI developer at [Seznam a.s.](https://kariera.seznam.cz/)
-- Student of PhD program at [Brno University of Technology](https://www.vut.cz/)
+<div align="center">
 
-### My code
+I'm a full-stack developer and Ph.D. student of bioinformatics, building digital products/machine learning models. I currently code for [Seznam a.s.](https://kariera.seznam.cz/) and study at [Brno University of Technology](https://www.vut.cz/).
+
+When I'm not coding you can find me gravel riding, or running around the city.
+
+</div>
+
+#### About me
 
 ```typescript
-type Technologies = {
-    frontend: string[],
-    backend: Record<string, string[]>,
-    devOps: string[],
-    databases: string[],
-    machineLearning: string[],
-}
 
-type Developer = {
-    pronouns: string[],
-    code: string[],
-    askMeAbout: string[],
-    technologies: Technologies,
-    hobbies: string[],
-    architecture: string[],
-    currentFocus: string[],
-}
+type FullStack = Frontend & Backend
 
-const PATRIK_KAURA: Developer = {
+const patrik: FullStack = {
     pronouns: ["He", "Him"],
     code: ["Typescript", "Javascript", "Python"],
     askMeAbout: ["web development", "machine learning"],
@@ -56,7 +46,7 @@ const PATRIK_KAURA: Developer = {
         databases: ["mongo", "Maria db", "sqlite", "redis"],
         machineLearning: ["Keras", "XGBoost", "scikit-learn", "opencv"],
     },
-    hobbies: [ "formula 1", "nfl", "gravel cycling", "running" ],
+    hobbies: ["formula 1", "nfl", "gravel cycling", "running"],
     architecture: ["Microservice", "Single page applications"],
     currentFocus: ["Web development", "system architecture"],
 };
