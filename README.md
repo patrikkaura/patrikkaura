@@ -1,6 +1,8 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F754&center=true&width=435&lines=%3E+Hello+there%2C+I'am+Patrik!" alt="Typing SVG" /></a>
-    <hr />
+    <h3>
+        👋 Hello there, I'm Patrik! 
+    </h3>
+<hr />
     Full-stack developer from Czech Republic
 </div>
 
@@ -9,7 +11,7 @@
 
 
 <br />
-<img align="right" alt='whale' style="width: 250px;" src="https://media0.giphy.com/media/1QfiAtGHd1CS4HzaiU/giphy.gif?cid=ecf05e47inp2lsc1514u46xig44kmg3kksz1tceuv19c3txh&rid=giphy.gif&ct=g" />
+<img align="right" alt='whale' style="width: 250px;" src="https://i.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.webp" />
 
 
 <p align="left">
