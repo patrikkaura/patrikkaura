@@ -11,7 +11,7 @@
 
 
 <br />
-<img align="right" alt='whale' style="width: 250px;" src="https://i.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.webp" />
+<img align="right" alt='whale' style="width: 250px;" src="https://cutewallpaper.org/25/animated-wallpaper-lofi/anime-gif-wallpaper-lofi-gifart-lo-fi-wallpapers-top-free-backgrounds-wallpaperaccess-youtube-cool-drawings-cloudygif-find-gifs-with-the-latest-and-newest-hashtags.gif" />
 
 
 <p align="left">
@@ -41,7 +41,6 @@ I'm a full-stack developer and Ph.D. student of bioinformatics, building digital
 type FullStack = Frontend & Backend
 
 const patrik: FullStack = {
-    pronouns: ["He", "Him"],
     code: ["Typescript", "Javascript", "Python"],
     askMeAbout: ["web development", "machine learning"],
     technologies: {
