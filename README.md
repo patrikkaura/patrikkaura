@@ -10,8 +10,7 @@
 
 
 
-<br />
-<img align="right" alt='whale' style="width: 250px;" src="https://cutewallpaper.org/25/animated-wallpaper-lofi/anime-gif-wallpaper-lofi-gifart-lo-fi-wallpapers-top-free-backgrounds-wallpaperaccess-youtube-cool-drawings-cloudygif-find-gifs-with-the-latest-and-newest-hashtags.gif" />
+<img align="right" alt='welcome' style="width: 200px;" src="https://i.giphy.com/media/cekRR561cp6tpnG8ZC/giphy.webp" />
 
 
 <p align="left">
@@ -59,8 +58,12 @@ const patrik: FullStack = {
 };
 ```
 
+<hr />
 
 ### 🔥 Github - streak stats 🔥
+
+<img align="right" alt='break' style="width: 200px;" src="https://i.giphy.com/media/9Dk4MhcbdM9kNwNbrI/giphy.webp" />
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrikkaura&theme=dark)](https://git.io/streak-stats)
 
