@@ -10,7 +10,7 @@
 
 
 
-<img align="right" alt='welcome' style="width: 200px;" src="https://i.giphy.com/media/cekRR561cp6tpnG8ZC/giphy.webp" />
+<img align="right" alt='welcome' style="width: 150px;" src="https://i.giphy.com/media/cekRR561cp6tpnG8ZC/giphy.webp" />
 
 
 <p align="left">
@@ -58,11 +58,10 @@ const patrik: FullStack = {
 };
 ```
 
-<hr />
 
 ### 🔥 Github - streak stats 🔥
 
-<img align="right" alt='break' style="width: 200px;" src="https://i.giphy.com/media/9Dk4MhcbdM9kNwNbrI/giphy.webp" />
+<img align="right" alt='break' style="width: 150px;" src="https://i.giphy.com/media/9Dk4MhcbdM9kNwNbrI/giphy.webp" />
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrikkaura&theme=dark)](https://git.io/streak-stats)
