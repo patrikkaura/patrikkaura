@@ -61,8 +61,5 @@ const patrik: FullStack = {
 
 ### 🔥 Github - streak stats 🔥
 
-<img align="right" alt='break' style="width: 150px;" src="https://i.giphy.com/media/9Dk4MhcbdM9kNwNbrI/giphy.webp" />
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrikkaura&theme=dark)](https://git.io/streak-stats)
 
