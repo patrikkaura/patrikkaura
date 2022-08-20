@@ -14,7 +14,7 @@
 
 
 <p align="left">
-I'm a full-stack developer and Ph.D. student of bioinformatics, building digital products/machine learning models. I currently code for <a href="https://kariera.seznam.cz/">Seznam a.s.</a> and study at <a href="https://www.vut.cz/">Brno University of Technology</a>. When I'm not coding you can find me gravel riding, or running around the city.
+I'm a full-stack developer and Ph.D. student of 🧬 bioinformatics, building digital products/machine learning models. I currently code advertising system (Sklik) for <a href="https://kariera.seznam.cz/">Seznam a.s.</a> and study at <a href="https://www.vut.cz/">Brno University of Technology</a>. When I'm not coding you can find me gravel riding, or running around the city.
 </p>
 <br />
 <br />
@@ -40,21 +40,21 @@ I'm a full-stack developer and Ph.D. student of bioinformatics, building digital
 type FullStack = Frontend & Backend
 
 const patrik: FullStack = {
-    code: ["Typescript", "Javascript", "Python"],
+    code: ["Typescript", "Javascript", "NodeJs", "🐍 Python"],
     askMeAbout: ["web development", "machine learning"],
     technologies: {
         frontend: ["ReactJS", "Typescript"],
         backend: {
-            js: ["Node", "NextJS", "Express"],
+            js: ["NextJS", "Express"],
             python: ["Flask", "fastapi"],
         },
         devOps: ["Kubernetes", "Docker🐳", "Gitlab CI/CD", "Github actions", "Nginx"],
         databases: ["mongo", "Maria db", "sqlite", "redis"],
         machineLearning: ["Keras", "XGBoost", "scikit-learn", "opencv"],
     },
-    hobbies: ["formula 1", "nfl", "gravel cycling", "running"],
+    hobbies: ["🏎 F1 - Redbull Racing", "🏈 NFL - New England Patriots", "🚴‍ ♂️Gravel cycling", "🏃‍♂️ Running"],
     architecture: ["Microservice", "Single page applications"],
-    currentFocus: ["Web development", "system architecture"],
+    currentFocus: ["Web development", "System architecture"],
 };
 ```
 
