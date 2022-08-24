@@ -15,7 +15,7 @@
 
 
 <p align="left">
-I'm a full-stack developer and Ph.D. candidate of 🧬 bioinformatics, building digital products/machine learning models. I currently code advertising system (Sklik) for <a href="https://kariera.seznam.cz/">Seznam a.s.</a> and study at <a href="https://www.vut.cz/">Brno University of Technology</a>. When I'm not coding you can find me gravel riding, or running around the city.
+I'm a full-stack developer and Ph.D. candidate of bioinformatics 🧬, building digital products/machine learning models. I currently code advertising system (Sklik) for <a href="https://kariera.seznam.cz/">Seznam a.s.</a> and study at <a href="https://www.vut.cz/">Brno University of Technology</a>. When I'm not coding you can find me gravel riding, or running around the city.
 </p>
 <br />
 <br />
