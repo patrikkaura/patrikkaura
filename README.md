@@ -55,7 +55,7 @@ const patrik: FullStack = {
     },
     hobbies: ["🏎 F1 - Redbull Racing", "🏈 NFL - New England Patriots", "🚴‍ Gravel cycling", "🏃‍♂️ Running"],
     architecture: ["Microservice", "Single page applications"],
-    currentFocus: ["Web development", "System architecture"],
+    currentFocus: ["Web development", "System architecture", "Machine learning"],
 };
 ```
 
