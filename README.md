@@ -53,7 +53,7 @@ const patrik: FullStack = {
         databases: ["mongo", "Maria db", "sqlite", "redis"],
         machineLearning: ["Keras", "XGBoost", "scikit-learn", "opencv"],
     },
-    hobbies: ["🏎 F1 - Redbull Racing", "🏈 NFL - New England Patriots", "🚴‍ Gravel cycling", "🏃‍♂️ Running"],
+    hobbies: ["🏎 F1 - Redbull Racing", "📚 Frantisek Kotleta's books", "🚴‍ Gravel cycling", "🏃‍♂️ Running"],
     architecture: ["Microservice", "Single page applications"],
     currentFocus: ["Web development", "System architecture", "Machine learning"],
 };
