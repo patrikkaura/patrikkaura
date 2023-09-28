@@ -58,9 +58,3 @@ const patrik: FullStack = {
     currentFocus: ["Web development", "System architecture", "Machine learning"],
 };
 ```
-
-
-### 🔥 Github - streak stats 🔥
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrikkaura&theme=dark)](https://git.io/streak-stats)
-
