@@ -15,7 +15,7 @@
 
 
 <p align="left">
-I'm a full-stack developer and Ph.D. candidate of bioinformatics 🧬, building digital products/machine learning models. I currently code advertising system (Sklik) for <a href="https://kariera.seznam.cz/">Seznam a.s.</a> and study at <a href="https://www.vut.cz/">Brno University of Technology</a>. When I'm not coding you can find me gravel riding, or running around the city.
+I'm a full-stack developer building digital products and machine learning models. I currently code advertising system (Sklik) for <a href="https://kariera.seznam.cz/">Seznam a.s.</a> and work as researcher staff member at <a href="https://www.muni.cz">Masaryk University</a>. When I'm not coding you can find me gravel riding, or running around the city.
 </p>
 <br />
 <br />
@@ -41,13 +41,13 @@ I'm a full-stack developer and Ph.D. candidate of bioinformatics 🧬, building 
 type FullStack = Frontend & Backend
 
 const patrik: FullStack = {
-    code: ["Typescript", "Javascript", "NodeJs", "🐍 Python"],
+    code: ["Typescript", "Javascript", "NodeJs", "Deno", "🐍 Python"],
     askMeAbout: ["web development", "machine learning"],
     technologies: {
         frontend: ["ReactJS", "Typescript"],
         backend: {
-            js: ["NextJS", "Express"],
-            python: ["Flask", "fastapi"],
+            js: ["NextJS", "Express", "koa"],
+            python: ["Flask"],
         },
         devOps: ["Kubernetes", "Docker🐳", "Gitlab CI/CD", "Github actions", "Nginx"],
         databases: ["mongo", "Maria db", "sqlite", "redis"],
